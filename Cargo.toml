@@ -4,7 +4,8 @@ version = "0.1.0"
 edition = "2018"
 license = "MIT"
 description = "A simple logging library"
-author = "Fn79"
+authors = ["Fn79"]
+repository = "https://github.com/Reffis/BBangLog"
 
 
 [dependencies]
