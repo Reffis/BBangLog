@@ -1,9 +1,12 @@
 [package]
 name = "bbanglog"
-author = "github.com/Fn79"
 version = "0.1.0"
 edition = "2018"
 license = "MIT"
 description = "A simple logging library"
+author = "Fn79"
+
 
 [dependencies]
+colored = "2.0.0"
+chrono = "0.4"
