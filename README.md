@@ -7,6 +7,7 @@ Simple logging library
 bbanglog = "0.1.0"
 ```
 
+
 ```rs
 extern crate bbanglog;
 
